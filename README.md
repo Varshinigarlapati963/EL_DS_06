@@ -29,7 +29,7 @@ LIMIT 1;
 Insight: The Electronics category generated the highest revenue in Q1, totaling 15,399.68.
 
 
-##2.Top Product Category Overall
+## 2.Top Product Category Overall
 ```python
 SELECT
   `Product Category`,
